@@ -12,7 +12,7 @@
 
 ### 🚀 My Skills:
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
@@ -38,7 +38,7 @@
 
 ### 🌍 Social Media:
 
-<div align="left">
+<div align="center">
   <a href="https://manoel-dev.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
@@ -55,7 +55,7 @@
 
 ##
 
-### 🐍 GitHub Contribution Snake
+
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ManelFer/ManelFer/output/snake.svg" alt="Snake animation" />
