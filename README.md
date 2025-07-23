@@ -2,7 +2,7 @@
 
 ##
 
-### 🧑‍💻 Sobre mim:
+<h1 align="center"> 🧑‍💻 Sobre mim: </h1>
 
 - 💻 Graduando em Analise e desenvolvimento de sistemas — Universidade Tiradente
 - 🛠️ Atuo como Desenvolvedor Full-Stack
