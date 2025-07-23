@@ -4,10 +4,9 @@
 
 ### 🧑‍💻 Sobre mim:
 
-- 🎓 Técnico em Informática — [Seu Instituto ou Escola]
-- 💻 Graduando em [Seu curso] — [Faculdade]
+- 💻 Graduando em Analise e desenvolvimento de sistemas — Universidade Tiradente
 - 🛠️ Atuo como Desenvolvedor Full-Stack
-- ⚙️ Foco em Desenvolvimento Web, APIs e Automação
+- ⚙️ Foco em Desenvolvimento Web, APIs e MicroServiço
 
 ##
 
@@ -21,7 +20,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
