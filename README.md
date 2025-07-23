@@ -1,6 +1,6 @@
 <h1 align="center">Manoel Ferreira Matos</h1>
 
-##
+
 
 <h1 align="center"> 🧑‍💻 About Me </h1>
 
@@ -8,9 +8,9 @@
 - 🛠️ Working as a Full-Stack Developer and IT Support  
 - ⚙️ Focused on Web Development, APIs, and Microservices  
 
-##
 
-### 🚀 My Skills:
+
+
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
@@ -25,18 +25,17 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
 </div>
 
-##
 
-### 📈 GitHub Stats
+
+
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManelFer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManelFer&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" />
 </div>
 
-##
 
-### 🌍 Social Media:
+
 
 <div align="center">
   <a href="https://manoel-dev.vercel.app" target="_blank">
@@ -53,7 +52,7 @@
   </a>
 </div>
 
-##
+
 
 
 
