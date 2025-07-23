@@ -2,15 +2,15 @@
 
 ##
 
-<h1 align="center"> 🧑‍💻 Sobre mim: </h1>
+<h1 align="center"> 🧑‍💻 About Me </h1>
 
-- 💻 Graduando em Analise e desenvolvimento de sistemas — Universidade Tiradente
-- 🛠️ Atuo como Desenvolvedor Full-Stack
-- ⚙️ Foco em Desenvolvimento Web, APIs e MicroServiço
+- 💻 Undergraduate in Systems Analysis and Development — Universidade Tiradentes  
+- 🛠️ Working as a Full-Stack Developer and IT Support  
+- ⚙️ Focused on Web Development, APIs, and Microservices  
 
 ##
 
-### 🚀 Minhas Habilidades:
+### 🚀 My Skills:
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
@@ -36,7 +36,7 @@
 
 ##
 
-### 🌍 Redes sociais:
+### 🌍 Social Media:
 
 <div align="left">
   <a href="https://manoel-dev.vercel.app" target="_blank">
@@ -55,6 +55,7 @@
 
 ##
 
+### 🐍 GitHub Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ManelFer/ManelFer/output/snake.svg" alt="Snake animation" />
