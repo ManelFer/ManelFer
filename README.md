@@ -55,7 +55,6 @@
 
 ##
 
-### 🐍 Snake Contribution Graph
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ManelFer/ManelFer/output/snake.svg" alt="Snake animation" />
