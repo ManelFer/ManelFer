@@ -4,7 +4,7 @@
 
 <h1 align="center"> 🧑‍💻 About Me </h1>
 
-- 💻 Undergraduate in Systems Analysis and Development — Universidade Tiradentes  
+- 💻 System Developer
 - 🛠️ Working as a Full-Stack Developer and IT Support  
 - ⚙️ Focused on Web Development, APIs, and Microservices  
 
