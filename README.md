@@ -1,41 +1,38 @@
 <h1 align="center">Manoel Ferreira Matos</h1>
 
+<h2 align="center">🧑‍💻 About Me</h2>
 
+<p align="center">
+  System Developer with experience in Full-Stack development, focused on building
+  scalable web applications, APIs, and backend services.
+</p>
 
-<h1 align="center"> 🧑‍💻 About Me </h1>
+<ul>
+  <li>💻 Full-Stack Developer</li>
+  <li>⚙️ Experience with Web Applications, REST APIs, and Microservices</li>
+  <li>🧠 Strong logical thinking and clean, maintainable code</li>
+</ul>
 
-- 💻 System Developer
-- 🛠️ Working as a Full-Stack Developer and IT Support  
-- ⚙️ Focused on Web Development, APIs, and Microservices  
-
-
-
-
+<h2 align="center">🚀 Tech Stack</h2>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
 </div>
 
-
-
-
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ManelFer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManelFer&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" />
 </div>
 
-
-
+<h2 align="center">🌐 Connect with Me</h2>
 
 <div align="center">
   <a href="https://manoel-dev.vercel.app" target="_blank">
@@ -51,10 +48,6 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
-
-
-
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/ManelFer/ManelFer/output/snake.svg" alt="Snake animation" />
