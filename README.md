@@ -25,12 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="35" />
 </div>
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ManelFer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ManelFer&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150" />
-</div>
 
 <h2 align="center">🌐 Connect with Me</h2>
 
